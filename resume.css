@@ -1,0 +1,192 @@
+body{
+			margin: none;
+			padding:25px;
+			background-color:yellow;
+			
+		}
+
+
+h1{
+	text-align: center;
+	color: white;
+
+}
+
+p{
+	font-size: 20px;
+	font-style: italic;
+}
+button{
+	background-color: green;
+	color:white;
+	padding: 15px 30px;
+	text-align: center;
+	display:inline-block;
+	font-size: 16px;
+	border: none;
+	margin: 2px 4px;
+}
+img{
+	border-radius: 50px;
+}
+
+h2{
+	/*text-align: top left;*/
+	font-style: italic;
+	text-align: left;
+	color: black;
+	font-weight:bolder;
+}
+
+span{
+	color: teal;
+	font-weight:bolder;
+	font-style: italic;
+}
+h3{
+	text-align: left;
+	color: 	mediumseagreen
+	font-weight:bold;
+	font-family: none;
+	font-style: italic;
+	margin: none;
+	padding-left: 15%;
+}
+h4{
+	font-size: 30px;
+	text-align: right;
+	margin: 5px;
+}
+
+/*#icon{
+	margin: none;
+	height: none;
+	padding: none;
+}
+*/
+#box{
+	background-color:antiquewhite;
+	padding: 10px 10px 10px 10px;
+	border: solid 
+    lightsteelblue;
+	margin:none;
+	width: none;
+
+}
+
+#xyz{
+	font-style: italic;
+	color:teal;
+	font-weight: bold;
+	font-size: 20px;
+	font-family:none;
+
+}
+
+#content{
+
+}
+
+
+#ab{
+	/*background-color: red;*/
+	/*font-size: 50px;*/
+	padding:none;
+	background-image: url("ash.jpg");
+	color: white;
+	text-align: center;
+	/*margin: 50px;*/
+}
+
+#box1{
+	background-color:antiquewhite;
+	padding: 10px 10px 10px 10px;
+	border: solid 
+    lightsteelblue;
+	margin:0px;
+	/*width: 40%;*/
+	height: 300px;
+
+}
+
+
+
+
+#div1{
+	background-color: red;
+	width: 33.33%;
+	float: right;
+}
+#div2{
+	background-color: pink;
+	width: 33.33%;
+	float: left;
+}
+#html
+{
+	color: green;
+}
+
+#htmlbox
+{
+	background-color:white;
+	padding: 3px 3px 3px 3px;
+	border: solid green;
+	margin:none;
+	width: 300px;
+	/*float: left;*/
+
+}
+
+#css
+{
+	color: green;
+	/**/
+	/*height: top;*/
+	/*text-overflow: 20px;*/
+}
+
+#cssbox
+{
+	background-color:white;
+	padding: 3px 3px 3px 3px;
+	border: solid green;
+	margin:0;
+	width: 300px;
+	/*float: right;*/
+	/*height: 300px;*/
+
+}
+
+#js
+{
+	color: green;
+}
+
+#jsbox
+{
+	background-color:white;
+	padding: 3px 3px 3px 3px;
+	border: solid green;
+	margin:none;
+	width: 300px;
+	/*float: left;*/
+
+}
+
+#div3
+{
+	background-color: green;
+	width: 33.33%;
+	margin:  0 auto;
+
+}
+
+h5{
+	text-align: center;
+}
+
+
+
+
+
